@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from "react";
-import { motion, AnimatePresence } from "motion/react";
 import { Menu, X } from "lucide-react";
+import { AnimatePresence, motion } from "motion/react";
+import { useEffect, useState } from "react";
 
 export const Navbar = () => {
     const [activeSection, setActiveSection] = useState("hero");
@@ -194,6 +194,7 @@ export const Navbar = () => {
                     </motion.div>
                 )}
             </AnimatePresence>
+            {/*  */}
         </>
     );
 };
