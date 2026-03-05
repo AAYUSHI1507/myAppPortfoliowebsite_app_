@@ -1,6 +1,7 @@
 # 🌐 Personal Portfolio Website
 
-![Portfolio Screenshot](./preview.png)
+Portfolio screenshot
+<img width="1822" height="857" alt="image" src="https://github.com/user-attachments/assets/5546a6cb-60cb-4c93-a89e-7ee9d32430aa" />
 
 A modern, responsive **developer portfolio website** built to showcase
 my projects, skills, and experience. The goal of this website is to
@@ -11,7 +12,7 @@ and provides an easy way for people to connect with me.
 
 ## 🚀 Live Demo
 
-🔗 **Website:** https://your-portfolio-link.com\
+🔗 **Website:** https://aayushikataria.netlify.app/
 🔗 **GitHub Repository:** https://github.com/yourusername/portfolio
 
 ------------------------------------------------------------------------
@@ -35,8 +36,8 @@ and provides an easy way for people to connect with me.
 
 -   HTML5
 -   CSS3 / TailwindCSS
--   JavaScript
--   React.js
+-   Typescript
+-   React.ts
 
 ### Animations
 
@@ -163,8 +164,8 @@ Add your project details:
 
 If you'd like to collaborate or discuss opportunities:
 
--   Email: yourmail@email.com
--   LinkedIn: https://linkedin.com/in/yourprofile
+-   Email: akataria954@email.com
+-   LinkedIn: https://www.linkedin.com/in/aayushi-k-868125200
 -   GitHub: https://github.com/yourusername
 
 ------------------------------------------------------------------------
